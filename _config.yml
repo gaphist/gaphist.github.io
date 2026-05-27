@@ -1,0 +1,9 @@
+title: Mon Blog
+description: Mes textes, mes idées.
+theme: minima
+
+author:
+  name: Ton Nom
+
+minima:
+  skin: auto  # clair/sombre selon le système de l'utilisateur
